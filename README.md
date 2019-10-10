@@ -1899,20 +1899,20 @@
     }
     ```
     
-    <a name="git-comments"></a><a name="17.5"></a>
-    - [12.7](#git-comments)
+    <a name="git-comments"></a><a name="17.6"></a>
+    - [12.7](#git-comments) Prepend `[change-type]` when writing git summary.
     ```javascript
     Use following abbrevations in the git summary while commiting. It can be used in combination.
     
-    [feat]:  new feature push, adding new code
-    [fix]: Fixing bugs, does not include refactoring code
+    [feat]:     New feature push, adding new code
+    [fix]:      Fixing bugs, does not include refactoring code
     [refactor]: Refactoring, editing previous code that is not a bug
-    [style]: Changes in styles, mainly frontend
-    [format]: Changes in html only, not logic implementation
+    [style]:    Changes in styles, mainly frontend
+    [format]:   Changes in html only, not logic implementation
     [optimize]: Optimizing code, only changes in algorithm
-    [test]: code for testing, not permanant code, will be removed later
-    [docs]: documentation
-    [chore]: repetative tasks that are not a feature and do not have logic refactoring
+    [test]:     Code for testing, not permanant code, will be removed later
+    [docs]:     Documentation
+    [chore]:    Repetative tasks that are not a feature and do not have logic refactoring
     
     // bad
     Added sitewide coupon
