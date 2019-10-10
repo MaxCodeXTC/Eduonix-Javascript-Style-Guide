@@ -1900,7 +1900,8 @@
     ```
     
     <a name="git-comments"></a><a name="17.6"></a>
-    - [12.7](#git-comments) Prepend `[change-type]` when writing git summary.
+  - [12.7](#git-comments) Prepend `[change-type]` when writing git summary.
+    
     ```javascript
     Use following abbrevations in the git summary while commiting. It can be used in combination.
     
