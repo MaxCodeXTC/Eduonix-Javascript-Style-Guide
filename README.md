@@ -1,20 +1,20 @@
 ## Table of Contents
 
-  1. [Objects] - 8 (#objects)
-  1. [Arrays] - 8 (#arrays)
-  1. [Strings] - 5 (#strings)
-  1. [Functions] - 15 (#functions)
-  1. [Classes & Constructors] - 6 (#classes--constructors)
-  1. [Modules] - 9(#modules)
-  1. [Iterators and Generators] - 3 (#iterators-and-generators)
-  1. [Variables] - 8 (#variables)
-  1. [Comparison Operators & Equality] - 8 (#comparison-operators--equality)
-  1. [Blocks] - 3 (#blocks)
-  1. [Control Statements] - 2 (#control-statements)
-  1. [Comments] - 6 (#comments)
-  1. [Whitespace] - 20 (#whitespace)
-  1. [Commas] - 2 (#commas)
-  1. [Naming Conventions] - 10 (#naming-conventions)
+  1. [Objects] (#objects) - 8 
+  1. [Arrays] (#arrays) - 8 
+  1. [Strings] (#strings) - 5 
+  1. [Functions]  (#functions - 15 
+  1. [Classes & Constructors] (#classes--constructors) - 6 
+  1. [Modules (#modules)  - 9
+  1. [Iterators and Generators] (#iterators-and-generators) - 3 
+  1. [Variables] (#variables) - 8 
+  1. [Comparison Operators & Equality] (#comparison-operators--equality) - 8 
+  1. [Blocks] (#blocks) - 3 
+  1. [Control Statements] (#control-statements) - 2 
+  1. [Comments] (#comments) - 6 
+  1. [Whitespace]  (#whitespace - 20 
+  1. [Commas] (#commas) - 2 
+  1. [Naming Conventions]  (#naming-conventions - 10 
 
 
 ## Objects
